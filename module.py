@@ -1,14 +1,4 @@
-#          가위, 바위, 보
-#--------------------------------
-# import random
-# candidates = ['가위', '바위', '보']
-# selected = random.choice(candidates)
-# print(selected)
-
-#           URL_Module
-#--------------------------------
 from urllib import response
-
 
 def get_web(url):
     '''URL을 매개 변수에 입력하면 내용을 반환하는 함수'''
